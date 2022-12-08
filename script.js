@@ -116,7 +116,7 @@ question: "18. Programátor",
 a: "vytváří části aplikací nebo jejich kombinací staví větší celky. Kromě jejich tvorby spolupracuje i na jejich testování nebo ladění",
 b: " je lékař, který se zabývá nemocemi mozku, které se projevují v myšlení, emocích, vnímání nebo chování nemocných",
 
-correct: "b",
+correct: "a",
 },{
   question: "19. Jeřábník",
   a: "řídí zdvihací stroje a dopravuje jimi náklad na určené místo",
